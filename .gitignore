@@ -5,7 +5,9 @@
 
 #Files
 stuff.txt
-ipynb_checkpoints
+.ipynb_checkpoints
+.env
+.env
 # User-specific files
 *.rsuser
 *.suo
